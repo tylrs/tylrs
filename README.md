@@ -1,12 +1,3 @@
-### Hello 👋
-I am a Chicago based actor, singer, and pianist studying Front-End Software Engineering at the Turing School of Software and Design. Although it seems like a big change, I am really just moving from one keyboard to another and from performing scripts to writing them (for computers).
-
-Once the pandemic stopped all live entertainment last year, I had a chance to reflect on what I found most fulfilling in theatre and music. After performing in over 16 professional productions in Chicago, I realized I was more interested in thinking analytically about the arts and understanding the theories and techniques behind great pieces of music or great performances than I was in performing myself.
-
-I thought carefully about other careers where I could think analytically and solve problems in this way every day while still involving the creativity and emotional intelligence I developed as an artist. Front-End software engineering has turned out to be the perfect place to be creative, work collaboratively, constantly learn challenging new things, and continue to guide audiences through experiences and persuade them to stay engaged.
-
-I am seeking a junior developer position where I can continue to grow the skills I have developed at Turing. You can reach me at galloway.taylor@gmail.com
-
 ### Technologies I am working in:
 
 <p text-align="center"> 
