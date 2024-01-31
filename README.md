@@ -8,7 +8,6 @@
     <img alt="Cypress Badge" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff&style=flat-square" />
 </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tylrs&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tylrs&langs_count=5&theme=tokyonight)]()
 
 
